@@ -41,3 +41,7 @@ Esta calculadora es una herramienta **orientativa y gratuita**, con fines exclus
 - Los datos introducidos se procesan únicamente en tu navegador y se guardan en su `localStorage`. No se envían ni se almacenan en ningún servidor.
 
 El software se proporciona "tal cual", sin garantías de ningún tipo.
+
+## Licencia
+
+[MIT](LICENSE) © 2026 olivertar
